@@ -1,0 +1,53 @@
+body{
+    margin: 0%;
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header{
+    background: url(https://ejeq.com.br/wp-content/uploads/2022/05/391.png) center/cover;
+    text-align: center;
+    color: white;
+    padding: 100px 0px;
+}
+
+header h1{
+    font-size: 3em;
+    padding-bottom: 20px;
+}
+
+h2{
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+.B1{
+    background-color: rgb(237, 101, 16);
+    color: white;
+    padding: 15px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.imagens{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+img{
+    padding-top: 20px;
+}
+
+.card1{
+    background-color:  rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+    
+}
