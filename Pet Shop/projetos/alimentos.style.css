@@ -17,7 +17,7 @@ header h1{
     padding-bottom: 20px;
 }
 
-h2{
+h1{
     padding-top: 20px;
     text-align: center;
 }
@@ -40,7 +40,7 @@ h2{
 }
 
 img{
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 .card1{
@@ -50,4 +50,40 @@ img{
     text-align: center;
     border-radius: 25px;
     
+}
+
+.card2{
+    background-color: rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img2{
+    width: 140px;
+}
+
+.card3{
+    background-color: rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img3{
+    width: 182px;
+}
+
+.card4{
+    background-color: rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img4{
+    width: 162px;
 }
