@@ -32,7 +32,7 @@ h1{
     font-weight: bold;
 }
 
-.imagens{
+.racoes{
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -41,9 +41,10 @@ h1{
 
 img{
     padding-top: 30px;
+    width: 135px;
 }
 
-.card1{
+.card{
     background-color:  rgb(215, 109, 44);
     color: white;
     width: 300px;
@@ -52,38 +53,47 @@ img{
     
 }
 
-.card2{
-    background-color: rgb(215, 109, 44);
-    color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 25px;
-}
 
 .img2{
     width: 140px;
 }
 
-.card3{
-    background-color: rgb(215, 109, 44);
-    color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 25px;
-}
+
 
 .img3{
-    width: 182px;
+    width: 135px;
 }
 
-.card4{
-    background-color: rgb(215, 109, 44);
-    color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 25px;
-}
+
 
 .img4{
-    width: 162px;
+    width: 160px;
+}
+
+
+
+.img5{
+    width: 135px;
+}
+
+
+
+.img6{
+    width: 135px;
+}
+
+.img7{
+    width: 145px;
+}
+
+.img8{
+    width: 115px;
+}
+
+.img9{
+    width: 170px;
+}
+
+.img11{
+    width: 180px;
 }
