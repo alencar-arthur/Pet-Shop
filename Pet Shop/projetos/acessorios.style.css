@@ -24,3 +24,68 @@ header h1{
     text-decoration: none;
     font-weight: bold;
 }
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+}
+
+.acessorios{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card1{
+    background-color:  rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img1{
+    width: 170px;
+    padding-top: 30px;
+}
+
+.card2{
+    background-color: rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img2{
+    width: 150px;
+    padding-top: 30px;
+}
+
+.card3{
+    background-color: rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img3{
+    width: 120px;
+    padding-top: 30px;
+}
+
+.card4{
+     background-color: rgb(215, 109, 44);
+    color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.img4{
+    width: 105px;
+    padding-top: 30px;
+}
