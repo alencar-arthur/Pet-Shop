@@ -38,12 +38,24 @@ h1{
     flex-wrap: wrap;
 }
 
-.card1{
+.card{
     background-color:  rgb(215, 109, 44);
     color: white;
     width: 300px;
     text-align: center;
     border-radius: 25px;
+    transition: all 0.6s ease-in-out;
+    padding: 25px;
+    cursor: pointer;
+}
+
+.card:hover{
+    background-color: rgb(36, 36, 149);
+    transform: translateY(-20px);
+}
+
+.card:hover p{
+    color: aqua;
 }
 
 .img1{
@@ -51,41 +63,63 @@ h1{
     padding-top: 30px;
 }
 
-.card2{
-    background-color: rgb(215, 109, 44);
-    color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 25px;
-}
+
 
 .img2{
     width: 150px;
     padding-top: 30px;
 }
 
-.card3{
-    background-color: rgb(215, 109, 44);
-    color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 25px;
-}
+
 
 .img3{
     width: 120px;
     padding-top: 30px;
 }
 
-.card4{
-     background-color: rgb(215, 109, 44);
-    color: white;
-    width: 300px;
-    text-align: center;
-    border-radius: 25px;
-}
+
 
 .img4{
     width: 105px;
+    padding-top: 30px;
+}
+
+.img5{
+    width: 150px;
+    padding-top: 30px;
+}
+
+.img6{
+    width: 150px;
+    padding-top: 30px;
+}
+
+.img7{
+    width: 200px;
+    padding-top: 30px;
+}
+
+.img8{
+    width: 220px;
+    padding-top: 30px;
+}
+
+.img9{
+    width: 220px;
+    padding-top: 30px;
+}
+
+.img10{
+    width: 110px;
+    padding-top: 30px;
+}
+
+.img11{
+    width: 150px;
+    padding-top: 30px;
+}
+
+.img12{
+    width: 200px;
     padding-top: 30px;
 }
